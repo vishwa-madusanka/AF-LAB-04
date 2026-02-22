@@ -65,3 +65,6 @@ async function myAsyncFunction() {
 }
 
 myAsyncFunction();
+
+//console.log 
+console.log("Hello Vishwa!");
